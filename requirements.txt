@@ -1,0 +1,6 @@
+flask
+gunicorn
+pytest
+coverage
+pytest-azurepipelines
+pytest-cov
